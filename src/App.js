@@ -14,7 +14,8 @@ function App() {
   const [dataLoaded, setDataLoaded] = useState(false)
   const [data, setData] = useState([])
 
-  const url = "http://localhost:5000";
+  // const url = "http://localhost:5000";
+  const url = "http://bajpaiutk.pythonanywhere.com"
 
   const fetchLogisticCipherText = async () => {
 
