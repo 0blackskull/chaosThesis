@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/0blackskull/chaosThesis/static/css/main.3c9f2102.css",
-    "main.js": "/0blackskull/chaosThesis/static/js/main.5891b5cd.js",
-    "index.html": "/0blackskull/chaosThesis/index.html",
-    "main.3c9f2102.css.map": "/0blackskull/chaosThesis/static/css/main.3c9f2102.css.map",
-    "main.5891b5cd.js.map": "/0blackskull/chaosThesis/static/js/main.5891b5cd.js.map"
+    "main.css": "/chaosThesis/static/css/main.3c9f2102.css",
+    "main.js": "/chaosThesis/static/js/main.5891b5cd.js",
+    "index.html": "/chaosThesis/index.html",
+    "main.3c9f2102.css.map": "/chaosThesis/static/css/main.3c9f2102.css.map",
+    "main.5891b5cd.js.map": "/chaosThesis/static/js/main.5891b5cd.js.map"
   },
   "entrypoints": [
     "static/css/main.3c9f2102.css",
