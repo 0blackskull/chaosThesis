@@ -2,6 +2,22 @@
   text-align: center;
 }
 
+form {
+  display: block;
+  margin: 0 auto 0 auto;
+  width: 200px;
+}
+
+form > .input {
+  display: inline-block;
+  
+}
+
+
+/* .App {
+  text-align: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +51,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
