@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/0blackskull/chaosThesis.git/static/css/main.3c9f2102.css",
+    "main.js": "/0blackskull/chaosThesis.git/static/js/main.5891b5cd.js",
+    "index.html": "/0blackskull/chaosThesis.git/index.html",
+    "main.3c9f2102.css.map": "/0blackskull/chaosThesis.git/static/css/main.3c9f2102.css.map",
+    "main.5891b5cd.js.map": "/0blackskull/chaosThesis.git/static/js/main.5891b5cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c9f2102.css",
+    "static/js/main.5891b5cd.js"
+  ]
+}
