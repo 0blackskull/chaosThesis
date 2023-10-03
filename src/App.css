@@ -1,18 +1,74 @@
+html {
+  background-color: #141a1f;
+  color: white;
+  font-style: Segoe UI Symbol;
+}
+
 .App {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
-form {
+.App > h2 {
   display: block;
-  margin: 0 auto 0 auto;
-  width: 200px;
+  width: 100%;
+  color: #3399ff;
+  text-align: left;
 }
 
-form > .input {
+/*Children of app are .cipherColumn and .form*/
+
+.cipherColumn, .form {
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px;
+  background-color: #1a1f25;
+  width: 40vw;
+  box-shadow: 5px;
+  overflow: scroll;
+  height: fit-content;
+}
+
+input[type="text"], [type="number"] {
+  border-radius: 5px;
+  font-size: 2vh;
+  width: 90%;
+  border-color: #2587ea;
+  padding: 5px;
+}
+
+button {
+  border: none;
+  padding: 10px;
+  background-color: #2587ea;
+  color: white;
+  font-size: 2vh;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+label {
+  display: block;
+  padding-bottom: 2%;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0%;
+}
+
+.letter {
   display: inline-block;
-  
+  width: 20px;
 }
 
+.input {
+  padding-bottom: 10px;
+}
 
 /* .App {
   text-align: center;
